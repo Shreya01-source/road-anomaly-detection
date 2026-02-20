@@ -47,7 +47,7 @@ Camera
 
 ---
 
-## 🧠 Model Used
+## Model Used
 
 - YOLOv5 for object detection
 - Custom-trained dataset (road anomaly images)
